@@ -1,0 +1,6 @@
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirst.Models\bin\Debug\FirstThingsFirst.Models.dll
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirst.Models\bin\Debug\FirstThingsFirst.Models.pdb
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirst.Models\obj\Debug\FirstThingsFirst.Models.csprojResolveAssemblyReference.cache
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirst.Models\obj\Debug\FirstThingsFirst.Models.csproj.CoreCompileInputs.cache
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirst.Models\obj\Debug\FirstThingsFirst.Models.dll
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirst.Models\obj\Debug\FirstThingsFirst.Models.pdb

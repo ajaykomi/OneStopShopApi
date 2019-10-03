@@ -1,0 +1,9 @@
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirs.Services\obj\Debug\FirstThingsFirs.Services.csprojResolveAssemblyReference.cache
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirs.Services\obj\Debug\FirstThingsFirs.Services.csproj.CoreCompileInputs.cache
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirs.Services\bin\Debug\FirstThingsFirs.Services.dll
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirs.Services\bin\Debug\FirstThingsFirs.Services.pdb
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirs.Services\bin\Debug\FirstThingsFirst.Models.dll
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirs.Services\bin\Debug\FirstThingsFirst.Models.pdb
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirs.Services\obj\Debug\FirstThingsFirs.Services.csproj.CopyComplete
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirs.Services\obj\Debug\FirstThingsFirs.Services.dll
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirs.Services\obj\Debug\FirstThingsFirs.Services.pdb

@@ -1,0 +1,11 @@
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirst\bin\Debug\netcoreapp2.0\FirstThingsFirst.deps.json
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirst\bin\Debug\netcoreapp2.0\FirstThingsFirst.runtimeconfig.json
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirst\bin\Debug\netcoreapp2.0\FirstThingsFirst.runtimeconfig.dev.json
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirst\bin\Debug\netcoreapp2.0\FirstThingsFirst.dll
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirst\bin\Debug\netcoreapp2.0\FirstThingsFirst.pdb
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirst\obj\Debug\netcoreapp2.0\FirstThingsFirst.csprojResolveAssemblyReference.cache
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirst\obj\Debug\netcoreapp2.0\FirstThingsFirst.csproj.CoreCompileInputs.cache
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirst\obj\Debug\netcoreapp2.0\FirstThingsFirst.AssemblyInfoInputs.cache
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirst\obj\Debug\netcoreapp2.0\FirstThingsFirst.AssemblyInfo.cs
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirst\obj\Debug\netcoreapp2.0\FirstThingsFirst.dll
+C:\My Projects\Core Projects\FirstThingsFirst\FirstThingsFirst\obj\Debug\netcoreapp2.0\FirstThingsFirst.pdb
