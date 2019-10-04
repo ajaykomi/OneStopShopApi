@@ -6543,10 +6543,12 @@
       ]
     },
     "Microsoft.Extensions.ApiDescription.Server/0.3.0-preview7.19365.7": {
-      "sha512": "lkRn3jolJlmWCdtzdsWAcpJ95T+70L5M/SKKcfKqhDxncGN42YUmys+Xhi2VsQPO661t+dJJEtNZm7ZIQp++PQ==",
+      "sha512": "LSVqiS15n6IP+x2nJuKXHX6B+10BJ9UUrT5yeROpVhGTveJRspRiAtn2YoNCCFEpoCGnB9pDmW4N6ybkFHO6bg==",
       "type": "package",
       "path": "microsoft.extensions.apidescription.server/0.3.0-preview7.19365.7",
+      "hasTools": true,
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "build/Microsoft.Extensions.ApiDescription.Server.props",
         "build/Microsoft.Extensions.ApiDescription.Server.targets",
@@ -7689,10 +7691,11 @@
       ]
     },
     "Microsoft.OpenApi/1.1.1": {
-      "sha512": "m+r0b8tA6uf9m0R99/qTOd5cxoG4/PHbCcWRrig/e3mYqpDbD3c2GueN4kuuhwYSWv1Bf0kOOoKRvK3DpmEIPA==",
+      "sha512": "96jr5MPyQ9WzxiBlTH2czVLwpOn7a7Y6j1vRHIZ4sIOFSAclPW2G+iQwnbw7rFBabTALiFJJ7q5Z5r8s+RmGvw==",
       "type": "package",
       "path": "microsoft.openapi/1.1.1",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/net46/Microsoft.OpenApi.dll",
         "lib/net46/Microsoft.OpenApi.pdb",
@@ -8549,20 +8552,22 @@
       ]
     },
     "Swashbuckle.AspNetCore/5.0.0-rc3": {
-      "sha512": "cLzGw+UsHz1br5khOTJC24EJaOlTeOlC0GAbD4qfUDHkoFZO4nWLDfefLaHfQ+77Uv/eY9ZgOqA3+yhGm/oj2Q==",
+      "sha512": "VWSW9cyanQMBFVTmvxTzmbKMGFw+rSyj28J+pouEMeYwcvG2ZBEifGgH+mNHFOPQq1mCtkTDzSqVsVxE7E2nGg==",
       "type": "package",
       "path": "swashbuckle.aspnetcore/5.0.0-rc3",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "swashbuckle.aspnetcore.5.0.0-rc3.nupkg.sha512",
         "swashbuckle.aspnetcore.nuspec"
       ]
     },
     "Swashbuckle.AspNetCore.Swagger/5.0.0-rc3": {
-      "sha512": "XagKxOTOWyVw0VPzrV+X2sQR879U/P05VwpPBCzWXH7qRxxbKntiYyDQA8/y2XwwtiNa9Woy2azh7zl2cI7p5A==",
+      "sha512": "X/R2G0JEcT1SrRur21E6CwEtsxhW19Xxv8XdGt0jSDLSwFKmspcukzeYvbWeq+xuAuhhuV/vdcb0fdv2JOBqhw==",
       "type": "package",
       "path": "swashbuckle.aspnetcore.swagger/5.0.0-rc3",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard2.0/Swashbuckle.AspNetCore.Swagger.dll",
         "lib/netstandard2.0/Swashbuckle.AspNetCore.Swagger.xml",
@@ -8571,10 +8576,11 @@
       ]
     },
     "Swashbuckle.AspNetCore.SwaggerGen/5.0.0-rc3": {
-      "sha512": "F5RyUJGBLkDRldIHnqqNbl8kjxVqRWC+n4cA+zM+WZCXyBYybuxcKA4YfJxws+a2vL7qnXVtx8Onusd87k/R/A==",
+      "sha512": "bfDmJvRDnfgknNFTVdLJpdmXxS2sHRVwMeg2MmnEHdVyXCOsP4Zf75tXEw4MkSEvr6K6bhHAw5fvOhYsmXvmfQ==",
       "type": "package",
       "path": "swashbuckle.aspnetcore.swaggergen/5.0.0-rc3",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll",
         "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.xml",
@@ -8585,10 +8591,11 @@
       ]
     },
     "Swashbuckle.AspNetCore.SwaggerUI/5.0.0-rc3": {
-      "sha512": "QHn4bcwmk5vEgj9Q1er/QOMlPYBZf32wDE/gpFs1l3TKVFD0pq75X5LQP8WBIUApR7d5GFbaN79itZefbH2o6w==",
+      "sha512": "YNFqRcXX2MPuOu7Nh06hr1rL2jRWc2TlMPn6sa9LWSK1iORgebXHrxj+ZR9RtmUUIEoDnM577ltDJyFPYXn4oA==",
       "type": "package",
       "path": "swashbuckle.aspnetcore.swaggerui/5.0.0-rc3",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
         "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
@@ -13292,26 +13299,23 @@
   },
   "packageFolders": {
     "C:\\Users\\ajayr\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\My Projects\\Core Projects\\FirstThingsFirst\\FirstThingsFirst\\FirstThingsFirst.csproj",
+      "projectUniqueName": "C:\\MyGitHUb\\FirstThingsFirst\\FirstThingsFirst\\FirstThingsFirst.csproj",
       "projectName": "FirstThingsFirst",
-      "projectPath": "C:\\My Projects\\Core Projects\\FirstThingsFirst\\FirstThingsFirst\\FirstThingsFirst.csproj",
+      "projectPath": "C:\\MyGitHUb\\FirstThingsFirst\\FirstThingsFirst\\FirstThingsFirst.csproj",
       "packagesPath": "C:\\Users\\ajayr\\.nuget\\packages\\",
-      "outputPath": "C:\\My Projects\\Core Projects\\FirstThingsFirst\\FirstThingsFirst\\obj\\",
+      "outputPath": "C:\\MyGitHUb\\FirstThingsFirst\\FirstThingsFirst\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\ajayr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
